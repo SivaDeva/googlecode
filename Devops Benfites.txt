@@ -1,0 +1,66 @@
+DevOps is not a technology or a product, but it is a combination of culture, people,
+process, and technology. Everyone who is involved in the software development
+process, including managers, works together and collaboratively on all the aspects
+of a project. DevOps represents an important opportunity for organizations to stay
+ahead of their competition by building better applications and services, thus opening
+the door for increased revenue and improved customer experiences. DevOps is the
+solution for the problems that arise from the interdependence of IT operations and
+software development.
+
+There are various benefits of DevOps:
+====================================
+• DevOps targets application delivery, new feature development, bug fixing,
+testing, and maintenance of new releases
+• It provides stable operating environments similar to an actual deployment
+environment and hence, results in less errors or unknown scenarios
+• It supports an effective application release management process by providing
+better control over the distributed development efforts, and by regulating
+development and deployment environments
+• It provides continuous delivery of applications and hence provides faster
+solutions to problems
+• It provides faster development and delivery cycles, which help us to increase
+our response to customer feedback in a timely manner and enhance customer
+experience and loyalty
+• It improves efficiency, security, reliability, predictability of outcome, and
+faster development and deployment cycles
+
+In the following figure, we can see all the necessities that are based on the
+development of DevOps. In order to serve most of the necessities of DevOps, 
+we need a tool for configuration management, such as Chef:
+
+Automation
+Server Monitoring
+Server Provisioning
+DevOps
+Configuration Management
+Application
+Monitoring
+Cloud Deployments
+Cloud Environment
+Virtualization Environment
+Continuous
+Integration Testing Continuous Delivery
+Development
+Environment Test Production
+Environment
+In order to support DevOps-based application development and delivery approach,
+infrastructure automation is mandatory, considering extreme need of agility. The
+entire infrastructure and platform layer should be configurable in the form of code or
+a script. These scripts will manage to install operating systems, install and configure
+servers on different instances or on virtual machines, and these scripts will manage
+to install and configure the required software and services on particular machines.
+Hence, it is an opportunistic time for organizations that need to deliver innovative
+business value in terms of services or offerings in the form of working outcome –
+deployment ready applications.
+With an automation script, same configuration can be applied to a single server or
+thousands of identical servers simultaneously. Thereby, it can handle error-prone
+manual tasks more efficiently without any intervention, and manage horizontal
+scalability efficiently and easily.
+In the past few years, several open-source commercial tools have emerged for
+infrastructure automation, in which, Bcfg2, Cobbler, CFEngine, Puppet, and
+Chef are the most popular. These automation tools can be used to manage all types
+of infrastructure environments such as physical or virtual machines, or clouds. Our
+objective is to understand Chef in detail, and hence, we will look at the overview
+of the Chef tool in the next section.
+An Overview of Automation and Advent of Chef
+[ 8 ]
