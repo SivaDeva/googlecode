@@ -1,0 +1,5 @@
+Develop a SPA using Reactjs , REDUX ,Redux-Observable (Middleware)
+and FabricUI (Component Library for React)
+https://developer.microsoft.com/en-us/fabric
+2. You can Use create-react-app cli
+3. Expect test cases using Jest and Enzyme
